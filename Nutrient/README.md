@@ -1,0 +1,4 @@
+K-MEANS AND PCA ANALYSIS ON USDA NUTRIENT DATABASE
+
+Looking at the USDA nutrient database, one would find various types of foods with their corresponding nutritional contents: http://ndb.nal.usda.gov/ndb/search/list. In this problem, we will experiment with 4 food groups: Cereal-Grain-Pasta, Finfish-Shellfish, Vegetables, Fats-Oils.
+The data contains detailed categorizations of each food item. For example, there are 9 categories of Kale. They range from raw, frozen and unprepared, cooked and boiled, cooked and drained without salt,etc. Based on these features, we will train the model and classify the food items.
